@@ -5,7 +5,7 @@ The codes are associated with the following paper:
 >**Knowledge Graph Retrieval-Augmented Generation via GNN-Guided Prompting**
 
 <p align="center">
-<img src="GGR.png" alt="Overview of QAP." width="100%" />
+<img src="GGR.png" alt="Overview of GGR." width="100%" />
 </p>
 
 ## 1. Datasets

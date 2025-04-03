@@ -18,7 +18,7 @@ args = parser.parse_args()
 
 def main():
     trainer = Trainer(args=vars(args))
-    trainer.cot(False)
+    trainer.ggr(False)
 
 if __name__ == '__main__':
     main()

@@ -21,8 +21,8 @@ Unzip the folder `data` under `./scripts/`.
 
 Run the following commands to create a conda environment:
 
-    conda create -y -n qap python=3.11
-    conda activate qap
+    conda create -y -n ggr python=3.11
+    conda activate ggr
     pip install numpy==2.0.1
     pip install torch==2.4.0
     pip install transformers==4.46.2
@@ -71,7 +71,7 @@ For the CWQ dataset on claude-3-haiku, run
 
 ## 5. Evaluating
 
-To Evaluate the model on dataset:
+To evaluate the model on dataset:
 
 For the Webqsp dataset on gpt3.5, run
 

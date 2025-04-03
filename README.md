@@ -96,3 +96,7 @@ For the CWQ dataset on gpt4-mini, run
 For the CWQ dataset on claude-3-haiku, run
 
     python test.py --name CWQ --data_folder data/webqsp/ --llm_name Claude
+
+## 6. Acknowledgment
+
+Our data preprocessing part is based on the code of GNN-RAG. Thanks to the authors and developers!
